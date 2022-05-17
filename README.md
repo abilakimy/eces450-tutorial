@@ -1,1 +1,1 @@
-This is a tutorial I did as a college senior for the ECES450 (Statistical Analysis of Metagenomics) course at Drexel University. The goal of this tutorial was to demonstrate to students the [MicrobiomeAnalyst](https://www.microbiomeanalyst.ca/) website's Marker Data Profiling feature.
+This is a tutorial I did as a college senior for the Statistical Analysis of Metagenomics (ECES450) course at Drexel University. The goal of this tutorial was to demonstrate to students the [MicrobiomeAnalyst](https://www.microbiomeanalyst.ca/) website's Marker Data Profiling feature.
